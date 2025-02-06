@@ -1,2 +1,2 @@
-# playingPuzzle
-A strategic puzzle-platformer.
+# react-app-playingPuzzle
+Our first attempt at game dev.
